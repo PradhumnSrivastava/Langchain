@@ -27,3 +27,4 @@ while True:
     
     messages.append(AIMessage(content=response.content))
     print(f"AI: {response.content}")
+    print(messages)

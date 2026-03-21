@@ -20,3 +20,4 @@ messages = [
 response =model.invoke(messages)
 messages.append(AIMessage(content=response.content))
 print(f"AI: {response.content}")
+print(messages)
