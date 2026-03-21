@@ -1,0 +1,5 @@
+Human: Hello, my name is Pradyumna.
+AI: Nice to meet you Pradyumna!
+
+Human: I love studying astronomy and philosophy.
+AI: That's wonderful! Both are deeply connected to understanding reality.
