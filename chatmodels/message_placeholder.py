@@ -40,5 +40,3 @@ response = model.invoke(prompt)
 
 print("\nAI Response:")
 print(response.content)
-
-print(prompt)
